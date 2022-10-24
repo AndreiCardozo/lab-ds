@@ -13,6 +13,7 @@ module.exports = {
       '2xl': 32
     },
     colors: {
+      transparent: 'transparent',
 
       gray: {
         900: '#121214',
@@ -24,7 +25,7 @@ module.exports = {
 
       cyan: {
         500: '#81d8f7',
-        400: '#9be1fb',
+        300: '#9be1fb',
       },
 
 
